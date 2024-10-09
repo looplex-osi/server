@@ -1,5 +1,5 @@
 {
-  "name": "@looplex/browser",
+  "name": "@looplex/server",
   "version": "0.0.1",
   "description": "Server library to facilitate sharing code between `code/api`, `saas/api` et cetera.",
   "source": "src/index.mjs",
