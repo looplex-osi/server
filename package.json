@@ -1,7 +1,7 @@
 {
   "name": "@looplex/browser",
-  "version": "0.0.10",
-  "description": "Browser (client-side) library to facilitate sharing code between `code/page` or `puppeteer`.",
+  "version": "0.0.1",
+  "description": "Server library to facilitate sharing code between `code/api`, `saas/api` et cetera.",
   "source": "src/index.mjs",
   "main": "dist/main.cjs.js",
   "module": "dist/module.mjs",

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/looplex-osi/browser/blob/master/logomark.png?raw=true" alt="@looplex/browser logomark" width="512" />
+  <img src="https://github.com/looplex-osi/server/blob/master/logomark.png?raw=true" alt="@looplex/server logomark" width="512" />
 </p>
 
 [![Parcel](https://img.shields.io/badge/built_by-parcel-8DD6F9.svg?style=for-the-badge&logo=webpack)](https://parceljs.org/getting-started/library/)
@@ -13,7 +13,7 @@
 
 # About
 
-`@looplex/browser` plays an important role in our platform engineering mission. It's useful at browser environments.
+`@looplex/server` plays an important role in our platform engineering mission. It's useful at server environments.
 
 # Features
 
@@ -29,10 +29,10 @@
 
 # Usage
 
-`@looplex/common` is available and ready for use on all Looplex enviornment. But if, for some reason, you want to leverage it as a standalone, the easiest way to install is by running:
+`@looplex/server` is available and ready for use on all Looplex server enviornment. But if, for some reason, you want to leverage it as a standalone, the easiest way to install is by running:
 
 ```bash
-npm install @looplex/common
+npm install @looplex/server
 ```
 
 # Standards and Rules
